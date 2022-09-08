@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer("trolled bozo <33")
+game:GetService("Players").LocalPlayer:Kick("trolled bozo <33")
